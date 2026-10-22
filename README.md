@@ -61,6 +61,7 @@ To swap an illustration for a photo, save the photo in `assets/img` and change t
 ## Content to confirm
 
 - [ ] Statistics on the home page: 96.1% is in the Stats SA media release; 70.2% and 1.6% should be checked against the provincial tables in the full General Household Survey 2023 report (P0318)
+- [ ] About page: the fixed home internet figure (7.7% Eastern Cape, 14.5% national, 2023) comes from Graph 4 of the ICASA State of the ICT Sector Report 2025. Her draft said roughly 8% to 10.4% and "one of the lowest"; the report shows 8.3% (2020) and 10.4% (2021) as national figures, and the Eastern Cape ranks third of nine, so please confirm the wording with her
 - [ ] isiXhosa phrases (Molo, Ndingakunceda njani, Enkosi, Wenze kakuhle), reviewed by a first-language speaker
 - [ ] The meaning of "GCGO Education" in the market opportunity text, which is left out of the page for now
 - [ ] Founder story and short biography
