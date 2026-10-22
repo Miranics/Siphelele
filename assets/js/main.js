@@ -1,5 +1,5 @@
 /*
-  FemConnect prototype
+  Imfundo Quest prototype
   This site is a design prototype. Navigation works, but anything that would
   need a real service (downloads, forms, sign-ups) only shows a notice.
 */
