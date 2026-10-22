@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" role="img" aria-labelledby="t">
+  <title id="t">A stack of colourful printed worksheets with a pencil on a school desk</title>
+  <rect width="480" height="300" fill="#E6ECFA"/>
+  <rect y="250" width="480" height="50" fill="#C9D4F0"/>
+  <g transform="rotate(-9 240 150)">
+    <rect x="130" y="46" width="200" height="206" rx="6" fill="#0B7A55"/>
+  </g>
+  <g transform="rotate(7 240 150)">
+    <rect x="140" y="40" width="200" height="206" rx="6" fill="#F6B000"/>
+  </g>
+  <g>
+    <rect x="140" y="34" width="200" height="214" rx="6" fill="#fff" stroke="#1A3A8F" stroke-width="3"/>
+    <rect x="160" y="54" width="96" height="12" rx="6" fill="#1A3A8F"/>
+    <rect x="160" y="78" width="150" height="6" rx="3" fill="#B9C3DE"/>
+    <rect x="160" y="92" width="124" height="6" rx="3" fill="#B9C3DE"/>
+    <g fill="none" stroke="#1A3A8F" stroke-width="2">
+      <rect x="160" y="118" width="64" height="44" rx="6"/>
+      <rect x="236" y="118" width="64" height="44" rx="6"/>
+    </g>
+    <circle cx="192" cy="140" r="12" fill="#C8372D"/>
+    <polygon points="268,128 282,152 254,152" fill="#0B7A55"/>
+    <rect x="160" y="178" width="150" height="6" rx="3" fill="#B9C3DE"/>
+    <rect x="160" y="192" width="110" height="6" rx="3" fill="#B9C3DE"/>
+    <rect x="160" y="206" width="136" height="6" rx="3" fill="#B9C3DE"/>
+  </g>
+  <g transform="rotate(-32 382 196)">
+    <rect x="372" y="120" width="20" height="150" rx="3" fill="#F6B000"/>
+    <rect x="372" y="120" width="20" height="14" rx="3" fill="#C8372D"/>
+    <polygon points="372,270 392,270 382,292" fill="#F7D9A0"/>
+    <polygon points="378,284 386,284 382,292" fill="#0E1F52"/>
+  </g>
+</svg>

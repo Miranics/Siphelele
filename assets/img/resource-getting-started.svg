@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" role="img" aria-labelledby="t">
+  <title id="t">A teacher holding up a phone screen to a small group of learners</title>
+  <rect width="480" height="300" fill="#DDF2E8"/>
+  <rect y="256" width="480" height="44" rx="0" fill="#BFE5D2"/>
+  <g>
+    <circle cx="96" cy="108" r="30" fill="#8A5A3C"/>
+    <path d="M44 262c0-58 24-88 52-88s52 30 52 88z" fill="#1A3A8F"/>
+    <path d="M142 196l52-34" stroke="#8A5A3C" stroke-width="16" stroke-linecap="round"/>
+    <g transform="rotate(12 214 140)">
+      <rect x="190" y="82" width="68" height="116" rx="12" fill="#0A1740"/>
+      <rect x="196" y="90" width="56" height="100" rx="8" fill="#F3F6FD"/>
+      <rect x="203" y="98" width="30" height="5" rx="2.5" fill="#1A3A8F"/>
+      <rect x="203" y="112" width="42" height="28" rx="5" fill="#fff"/>
+      <rect x="203" y="148" width="42" height="8" rx="4" fill="#DCE2F0"/>
+      <rect x="203" y="148" width="26" height="8" rx="4" fill="#F6B000"/>
+      <circle cx="224" cy="172" r="8" fill="#0B7A55"/>
+    </g>
+  </g>
+  <g>
+    <circle cx="326" cy="150" r="24" fill="#C68642"/>
+    <path d="M286 262c0-44 18-66 40-66s40 22 40 66z" fill="#F6B000"/>
+    <circle cx="402" cy="166" r="22" fill="#5C3A21"/>
+    <path d="M364 262c0-40 16-60 38-60s38 20 38 60z" fill="#C8372D"/>
+    <circle cx="258" cy="190" r="0" fill="none"/>
+  </g>
+</svg>

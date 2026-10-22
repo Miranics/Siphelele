@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" role="img" aria-labelledby="t">
+  <title id="t">A map of four numbered levels marked with maths symbols, leading to a treasure chest</title>
+  <rect width="480" height="300" fill="#FFF3D1"/>
+  <g fill="#1A3A8F" opacity=".14" font-family="Georgia, serif" font-weight="700">
+    <text x="24" y="64" font-size="46">π</text>
+    <text x="398" y="64" font-size="40">√</text>
+    <text x="30" y="276" font-size="38">x²</text>
+    <text x="410" y="270" font-size="36">∑</text>
+  </g>
+  <path d="M60 222L150 150L250 210L340 130L388 152" fill="none" stroke="#1A3A8F" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1 14"/>
+  <g font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="28" text-anchor="middle" fill="#fff">
+    <circle cx="60" cy="222" r="24" fill="#1A3A8F"/><text x="60" y="232">+</text>
+    <circle cx="150" cy="150" r="24" fill="#0B7A55"/><text x="150" y="160">−</text>
+    <circle cx="250" cy="210" r="24" fill="#C8372D"/><text x="250" y="220">×</text>
+    <circle cx="340" cy="130" r="24" fill="#1A3A8F"/><text x="340" y="140">÷</text>
+  </g>
+  <g>
+    <rect x="392" y="146" width="64" height="44" rx="5" fill="#F6B000"/>
+    <path d="M392 146c0-22 64-22 64 0z" fill="#FFC838"/>
+    <rect x="418" y="140" width="12" height="50" fill="#0E1F52"/>
+    <circle cx="424" cy="164" r="5" fill="#fff"/>
+    <rect x="392" y="146" width="64" height="4" fill="#0E1F52" opacity=".25"/>
+  </g>
+</svg>

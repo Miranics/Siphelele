@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" role="img" aria-labelledby="t">
+  <title id="t">A phone screen showing a flask with bubbling liquid, with atoms floating nearby</title>
+  <rect width="480" height="300" fill="#DDF2E8"/>
+  <g fill="none" stroke="#0B7A55" stroke-width="3" opacity=".45">
+    <ellipse cx="86" cy="96" rx="34" ry="13"/>
+    <ellipse cx="86" cy="96" rx="34" ry="13" transform="rotate(60 86 96)"/>
+    <ellipse cx="86" cy="96" rx="34" ry="13" transform="rotate(120 86 96)"/>
+    <ellipse cx="392" cy="210" rx="28" ry="11"/>
+    <ellipse cx="392" cy="210" rx="28" ry="11" transform="rotate(60 392 210)"/>
+    <ellipse cx="392" cy="210" rx="28" ry="11" transform="rotate(120 392 210)"/>
+  </g>
+  <circle cx="86" cy="96" r="7" fill="#0B7A55"/>
+  <circle cx="392" cy="210" r="6" fill="#0B7A55"/>
+  <rect x="174" y="24" width="132" height="252" rx="24" fill="#0A1740"/>
+  <rect x="184" y="38" width="112" height="224" rx="16" fill="#F3F6FD"/>
+  <rect x="198" y="52" width="60" height="8" rx="4" fill="#1A3A8F"/>
+  <rect x="232" y="82" width="16" height="30" rx="3" fill="#fff" stroke="#1A3A8F" stroke-width="4"/>
+  <path d="M232 112L200 172Q196 184 210 184H270Q284 184 280 172L248 112Z" fill="#fff" stroke="#1A3A8F" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M207 158H273L280 172Q284 184 270 184H210Q196 184 200 172Z" fill="#0B7A55"/>
+  <circle cx="232" cy="142" r="5" fill="#0B7A55" opacity=".7"/>
+  <circle cx="249" cy="128" r="4" fill="#0B7A55" opacity=".7"/>
+  <circle cx="240" cy="116" r="3" fill="#0B7A55" opacity=".7"/>
+  <rect x="198" y="206" width="84" height="10" rx="5" fill="#DCE2F0"/>
+  <rect x="198" y="206" width="52" height="10" rx="5" fill="#F6B000"/>
+  <rect x="198" y="226" width="84" height="22" rx="11" fill="#1A3A8F"/>
+  <rect x="222" y="234" width="36" height="6" rx="3" fill="#fff"/>
+</svg>
